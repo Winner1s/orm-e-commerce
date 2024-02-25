@@ -52,4 +52,3 @@ Product.init(
 );
 
 module.exports = Product;
-z
